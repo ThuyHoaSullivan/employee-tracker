@@ -1,6 +1,6 @@
 # Employee Tracker
 
-A command-line application to manage a company's employee database, built with **Node.js**, **TypeScript**, and **PostgreSQL**.
+A command-line application to manage a company's employee database, built with **Node.js**, **TypeScript**, **Inquirer** and **PostgreSQL**.
 
 ---
 
