@@ -28,3 +28,8 @@ A command-line application to manage a company's employee database, built with *
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ThuyHoaSullivan/employee-tracker.git
+
+2. **Link to the walk-through video**:
+
+https://drive.google.com/file/d/1shnmXZlTjtwW6m_xTiPK3-t-bQwBP2jG/view?usp=sharing
+
